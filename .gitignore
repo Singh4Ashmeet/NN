@@ -1,0 +1,15 @@
+# Large data and trained models (not uploaded to GitHub)
+dataset/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Temporary files
+temp_upload.jpg
+*.part
+.DS_Store
